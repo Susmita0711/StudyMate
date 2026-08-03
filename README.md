@@ -201,7 +201,7 @@ This project is licensed under the **MIT License**.
 
 🔗 GitHub: https://github.com/Susmita0711
 
-💼 LinkedIn: https://www.linkedin.com/in/susmita-hazra-336773361
+💼 LinkedIn: www.linkedin.com/in/susmita0711
 
 ---
 
