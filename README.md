@@ -2,7 +2,7 @@
 
 An AI-powered study companion that helps students upload study materials, summarize notes, explain complex concepts, generate quizzes and flashcards, chat with documents, and organize study schedules using Google Gemini AI.
 
-🌐 **Live Demo:** https://studymate-ai-susmita.ai.studio
+## 🌐 **Live Demo:** https://studymate-ai-susmita.ai.studio
 
 ---
 
@@ -60,6 +60,31 @@ Visit the application here:
 ### Deployment
 - Frontend: Google AI Studio
 - Backend: Render / Node.js
+
+---
+## 📚 AI Features
+
+- AI Summary Generator
+- AI Study Notes
+- AI Flashcards
+- AI Quiz Generator
+- AI Chat with Documents
+- Explain Difficult Concepts
+- Research Gap Detection
+- Future Work Suggestions
+- Smart Study Planning
+
+---
+
+## 📈 Future Improvements
+
+- 🎙️ Voice-based AI Tutor
+- 🧠 AI Mind Map Generator
+- ✍️ Handwritten Note OCR
+- 👥 Collaborative Study Rooms
+- 📱 Mobile Application
+- 🌍 Multi-language Support
+- ☁️ Cloud File Synchronization
 
 ---
 
@@ -151,32 +176,6 @@ npm run dev
 
 ---
 
-## 📚 AI Features
-
-- AI Summary Generator
-- AI Study Notes
-- AI Flashcards
-- AI Quiz Generator
-- AI Chat with Documents
-- Explain Difficult Concepts
-- Research Gap Detection
-- Future Work Suggestions
-- Smart Study Planning
-
----
-
-## 📈 Future Improvements
-
-- 🎙️ Voice-based AI Tutor
-- 🧠 AI Mind Map Generator
-- ✍️ Handwritten Note OCR
-- 👥 Collaborative Study Rooms
-- 📱 Mobile Application
-- 🌍 Multi-language Support
-- ☁️ Cloud File Synchronization
-
----
-
 ## 🤝 Contributing
 
 Contributions are welcome!
@@ -201,7 +200,7 @@ This project is licensed under the **MIT License**.
 
 🔗 GitHub: https://github.com/Susmita0711
 
-💼 LinkedIn: https://www.linkedin.com/in/susmita-hazra-672b88323/
+💼 LinkedIn: https://www.linkedin.com/in/susmita-hazra-336773361
 
 ---
 
