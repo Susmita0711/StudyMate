@@ -1,4 +1,4 @@
-# 📚 StudyMate AI
+# 📚 StudyMate
 
 An AI-powered study companion that helps students upload study materials, summarize notes, explain complex concepts, generate quizzes and flashcards, chat with documents, and organize study schedules using Google Gemini AI.
 
