@@ -33,6 +33,7 @@ Visit the application here:
 ---
 ## Interface
 <img width="1865" height="906" alt="image" src="https://github.com/user-attachments/assets/28968585-ab67-461e-b020-4151f7763ac7" />
+<img width="1840" height="893" alt="image" src="https://github.com/user-attachments/assets/d3657c86-9876-4c02-812c-e19745a6fced" />
 <img width="1712" height="901" alt="image" src="https://github.com/user-attachments/assets/a283b681-bea5-402c-8880-0fe484b165d8" />
 
 ## 🛠️ Tech Stack
